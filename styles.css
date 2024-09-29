@@ -4,14 +4,14 @@ body {
 	font-style: normal;
 	font-size: 16px;
 	color: hsl(30, 10%, 34%);
+	background-color: #f3e5d8;
 }
 
 main {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	padding: 7rem 0;
-	background-color: hsl(29, 53%, 90%);
+	padding: 10rem 0;
 }
 
 h1 {
